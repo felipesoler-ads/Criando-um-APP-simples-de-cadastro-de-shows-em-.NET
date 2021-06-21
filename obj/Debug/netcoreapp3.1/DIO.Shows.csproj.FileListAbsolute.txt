@@ -1,0 +1,13 @@
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Shows.csprojAssemblyReference.cache
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Shows.AssemblyInfoInputs.cache
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Shows.AssemblyInfo.cs
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Shows.csproj.CoreCompileInputs.cache
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Shows.exe
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Shows.deps.json
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Shows.runtimeconfig.json
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Shows.runtimeconfig.dev.json
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Shows.dll
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Shows.pdb
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Shows.dll
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Shows.pdb
+C:\Users\Fernando-Eng\Desktop\Fotos\ADS\CERTIFICADOS DIO\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Shows.genruntimeconfig.cache
